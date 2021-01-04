@@ -1,0 +1,6 @@
+framework module TFExampleFramework {
+  umbrella header "TFExampleFramework.h"
+
+  export *
+  module * { export * }
+}
